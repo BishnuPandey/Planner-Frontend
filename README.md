@@ -1,6 +1,6 @@
 # ToDo Planner
 
-This app is for those who is learning the react, axios and semantic ui. It is powered by microservice for data handling which you can find in [Planner-Service repository](https://github.com/BishnuPandey/Planner-Frontend.git). Make sure to run service before along with front end.
+This app is for those who is learning the react, axios and semantic ui. It is powered by microservice for data handling which you can find in [Planner-Service repository](https://github.com/BishnuPandey/Planner-Backend.git). Make sure to run service before along with front end.
 
 ## Run the project
 
